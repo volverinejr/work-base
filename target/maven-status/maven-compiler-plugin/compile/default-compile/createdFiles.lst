@@ -1,0 +1,8 @@
+br\com\volverinejr\workbase\App.class
+br\com\volverinejr\workbase\exception\ExceptionResponse.class
+br\com\volverinejr\workbase\dto\IQueryGeralComunDto.class
+br\com\volverinejr\workbase\exception\ResourceNotFoundException.class
+br\com\volverinejr\workbase\exception\ResourceServiceValidationException.class
+br\com\volverinejr\workbase\dto\LogPesquisaDto.class
+br\com\volverinejr\workbase\model\EntityBase.class
+br\com\volverinejr\workbase\model\ParamsRequestModel.class
